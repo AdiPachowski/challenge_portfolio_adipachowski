@@ -1,4 +1,21 @@
 Subtask 1 - ilość punktów z testu 6/10
 Subtask 3 -  Zdecydowałem się na udział w challengeu portfolio, ponieważ rozpocząłem nie dawno swoją przygodę z programowaniem w javie i uznałem że taki kurs z testowania oprogramowania to kolejny krok w rozwoju i nauce mojej wiedzy oraz możlwiość poznania nowych zagadanień ze świata IT.
 Moim celem jest poznanie zagadnień związanych z testami oprogramowań, oraz rozwinięcie swoich umiejętności w świecie IT, od projektu oczekuję dobrej zabawy oraz dużej dawki nowej wiedzy, a kto wie co jeszcze przyniesie ;)
-Subtask 4 - 
+Subtask 4 :
+
+Aplikacja polega na rejestrowaniu zawodników piłki nożnej, wraz ich danymi takimi jak:
+Dane kontaktowe: mail, telefon, imie i nazwisko
+Wzrost, waga, wiek
+Pytanie czy jest się lewo czy prawonożnym piłkarzem 
+W jakimi klubie gra oraz na jakiej głównej oraz drugiej pozycji.
+Z jakiego regionu oraz województwa pochodzi.
+Można dodać języki w jakich się komunikuje.
+Jest możliwość dodania, swoich profili z mediów społecznościowych  oraz linków do youtuba jako swoje portofolio w postaci gry.
+
+Aplikacja służy do tworzenia bazy danych piłkarzy, aby scoutą było łatwiej wyszukiwać potencjalnych zawodników do ich zespołów, taka aplikacja szukania talentów piłki nożnej, ułatawiająca szybsze oraz sprawniejsze wyszukiwanie piłkarzy.
+
+Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
+Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
+
