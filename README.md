@@ -1,1 +1,0 @@
-# challenge_portfolio_adipachowski
