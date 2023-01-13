@@ -31,20 +31,21 @@ Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są in
 
 This is answer 6  <a6> 
 
-# Wygląd aplikacji nie jest zachywcający, wygląda jak lekko ulepszony arkusz googla stworzony do zapisywania piłkarzy, w celu łatiwejszej identyfikacji oraz mozlwiości oszacowania ile jest zawodników z danego regionu. 
-## Wygląda
-jak aplikacja sprawdzająca dane stayscztyne. 
-### Nie jest zachęcająca do użycia.
+# Wygląd aplikacji nie jest zachywcający, wygląda jak lekko ulepszony arkusz googla stworzony do zapisywania piłkarzy, w celu łatiwejszej identyfikacji oraz mozlwiości oszacowania ile jest zawodników z danego klubu, regionu. 
+## Wygląda jak aplikacja sprawdzająca dane statystyczne piłkarzy. 
+### Podaje głównie suche fakty o piłkarzach, lecz nie daje możlwiości poznania ich w pełni. 
+### Dałbym troche więcej kolorów oraz zdjęć czy przejść pokazującą potencjał aplikacji, taki wygląd nie jest zbyt wyszukany.
 
 
 Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 
 This is answer 6  <a6> 
 
-Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
-
-
 # Widoczne kafelki główne, ukazujące ilość graczy, ilość meczy, ilość raportów oraz ilość akcji, zmieniłbym przejście, aby klikając kafelke była możliwość zobaczenia tych danych, niestety na tlefonie z system IOS nie da się tego wykonać. 
 ## Kafelek aktywność wymaga poprawy literówki w słowie aktywność, zamiast ś jest s.  
-### 
+### Przy słabszym internecie problem z zalogowaniem na wyszukiwarkach safari oraz chrome.
+#### Mało czytelne wyszukiwanie piłkarzy, wygląda to jak ciąg znaków, bez żadnych przerw, należałoby to poprawić aby wyszukiwanie było przyjemniejsze dla oczu.
+##### Filtry oraz możlwiość wyszukiwania powinna być lepie oznaczona, niestety w aplikacji mobilnej nie jest czytelna, ani intuicyjna.
+###### Po kliknięciu przycisku drukuj pojawia nam się błąd, zamiast wyświetlić konkretnego gracza oraz jego dane do druku, aplikacja przekieriwuje nas do wydruku całej strony danych róznych zawodników. 
+####### Zamieniłbym nagłówek przy dodawaniu gracza z Linków pomoczniczych na Dodaj Gracza czy piłkarza, linki pomocnicze jako tytuł nie jest odpowiednia, daje poczucie błędnek komunikacji aplikacji z użytkownikiem
 
