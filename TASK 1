@@ -27,14 +27,13 @@ This is answer 2  <a2>
 
 This is answer 3  <a3> 
 
-Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!) 
-
 # Łatwość i szybkość zmiany języka z polskiego na angielski, za jednym kliknięciem. 
 ## Intuicyjna możliwość dodania nowego gracza, zrozumiała forma rejestracji nowego piłkarza.
 ### Widoczne kafelki główne, ukazujące ilość graczy, ilość meczy, ilość raportów oraz ilość akcji, zmieniłbym przejście, aby klikając kafelke była możliwość zobaczenia tych danych, niestety na tlefonie z system IOS nie da się tego wykonać.
 #### Dodałbym możliwość dodawania zdjęcia profilowego gracza, gdzie szukając potencjalnego kandydata ułatiwło by to nam rozpozanie go nie tylko po danych ale również po zdjęciu.
 ##### Po stworzeniu profilu zawodnika, łątwość w edycji danych oraz dodawaniu meczów wraz z informacjami szczegółowymi dotyczącymi rozegranego meczu. 
-##### Sprawdzając devtoolsy nie da się połaczyć bezposrednio z youtubem, trzeba kopiować link aby zobaczyć film, brak jest możlwiości przejścia do youtuba bezposrednio po przekliknięciu linku, można by dodać hiperłącza.
+###### Sprawdzając devtoolsy nie da się połaczyć bezposrednio z youtubem, trzeba kopiować link aby zobaczyć film, brak jest możlwiości przejścia do youtuba bezposrednio po przekliknięciu linku, można by dodać hiperłącza.
+####### Nie zrozumiałe hasła typu: łączy nas piłka, 90 minut ? Nie wiadomo jakie informacje tam wpisać
 
 This is answer 4  <a4> 
 
