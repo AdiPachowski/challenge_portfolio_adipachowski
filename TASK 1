@@ -34,6 +34,7 @@ Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są in
 ### Widoczne kafelki główne, ukazujące ilość graczy, ilość meczy, ilość raportów oraz ilość akcji, zmieniłbym przejście, aby klikając kafelke była możliwość zobaczenia tych danych, niestety na tlefonie z system IOS nie da się tego wykonać.
 #### Dodałbym możliwość dodawania zdjęcia profilowego gracza, gdzie szukając potencjalnego kandydata ułatiwło by to nam rozpozanie go nie tylko po danych ale również po zdjęciu.
 ##### Po stworzeniu profilu zawodnika, łątwość w edycji danych oraz dodawaniu meczów wraz z informacjami szczegółowymi dotyczącymi rozegranego meczu. 
+##### Sprawdzając devtoolsy nie da się połaczyć bezposrednio z youtubem, trzeba kopiować link aby zobaczyć film, brak jest możlwiości przejścia do youtuba bezposrednio po przekliknięciu linku, można by dodać hiperłącza.
 
 This is answer 4  <a4> 
 
