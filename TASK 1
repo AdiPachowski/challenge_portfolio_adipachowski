@@ -58,4 +58,4 @@ This is answer 6 <a6>
 ##### Filtry oraz możlwiość wyszukiwania powinna być lepie oznaczona, niestety w aplikacji mobilnej nie jest czytelna, ani intuicyjna.
 ###### Po kliknięciu przycisku drukuj pojawia nam się błąd, zamiast wyświetlić konkretnego gracza oraz jego dane do druku, aplikacja przekieriwuje nas do wydruku całej strony danych róznych zawodników. 
 ####### Zamieniłbym nagłówek przy dodawaniu gracza z Linków pomoczniczych na Dodaj Gracza czy piłkarza, linki pomocnicze jako tytuł nie jest odpowiednia, daje poczucie błędnek komunikacji aplikacji z użytkownikiem
-
+######## Możliwość zmiany danych dowolnego piłkarza po kliknięciu w niego w panelu gracza, brak zabezpieczenia przed zmianą danych.
