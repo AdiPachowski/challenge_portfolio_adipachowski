@@ -1,15 +1,15 @@
-TASK 1
+# TASK 1 #
 
-Subtask 1 
+# Subtask 1 #
 
 Ilość punktów z testu 6/10
 
-Subtask 3 
+# Subtask 3 #
 
 Zdecydowałem się na udział w challengeu portfolio, ponieważ rozpocząłem nie dawno swoją przygodę z programowaniem w javie i uznałem że taki kurs z testowania oprogramowania to kolejny krok w rozwoju i nauce mojej wiedzy oraz możlwiość poznania nowych zagadanień ze świata IT.
 Moim celem jest poznanie zagadnień związanych z testami oprogramowań, oraz rozwinięcie swoich umiejętności w świecie IT, od projektu oczekuję dobrej zabawy oraz dużej dawki nowej wiedzy, a kto wie co jeszcze przyniesie ;)
 
-Subtask 4 :
+# Subtask 4 #
 
 This is answer 1  <a1> 
 - Aplikacja polega na rejestrowaniu zawodników piłki nożnej, wraz ich danymi takimi jak:
