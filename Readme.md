@@ -60,4 +60,27 @@ This is answer 6 <a6>
 - Po kliknięciu przycisku drukuj pojawia nam się błąd, zamiast wyświetlić konkretnego gracza oraz jego dane do druku, aplikacja przekieriwuje nas do wydruku całej strony danych róznych zawodników. 
 - Zamieniłbym nagłówek przy dodawaniu gracza z Linków pomoczniczych na Dodaj Gracza czy piłkarza, linki pomocnicze jako tytuł nie jest odpowiednia, daje poczucie błędnek komunikacji aplikacji z użytkownikiem
 - Możliwość zmiany danych dowolnego piłkarza po kliknięciu w niego w panelu gracza, brak zabezpieczenia przed zmianą danych.
-- Bardzo długi czas oczekiwania przy wolnej sieci 3g na otwarcie zakładaki z meczami, strona ładuje sie jakieś 1500000 ms.
+- Bardzo długi czas oczekiwania przy wolnej sieci 3g na otwarcie zakładaki z meczami, strona ładuje sie jakieś 1500000 ms
+  
+  
+  # TASK 2 #
+  
+  # Subtask 1 #
+  # Pisanie przypadków testowych na podstawie User Story.
+  
+  Poniżej znajduje się dokument z Subtaskiem 1
+  https://docs.google.com/spreadsheets/d/1zdjP7G63fPF83VVNyouTMS8-OHtc9akTplZJdipFvmI/edit?usp=sharing
+  
+  # Subtask 2 #
+  Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+  
+  Poniżej znajduje się dokument z Subtaskiem 2
+  https://docs.google.com/spreadsheets/d/16OdmX4HTKTWujVq_OLKPJF6hGnYYCbNdbS8OKM6VDVQ/edit?usp=sharing
+  
+   # Subtask 3 #
+  Po co piszemy test case’y?
+  
+ - Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji.  
+ - Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.
+  
+  
