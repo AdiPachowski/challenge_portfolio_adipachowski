@@ -91,5 +91,7 @@ This is answer 6 <a6>
 
 # Subtask 4 #
 
+  Poniżej link do Subtasku 4
   
+  https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1AK5_lEb_2ZmJ6UDZGqdvvtTW05TDtdoG9d6QNMxWYUhx2HIFlHL4dEtw&pli=1#gid=25870091
   
