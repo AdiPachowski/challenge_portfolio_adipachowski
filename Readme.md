@@ -69,12 +69,14 @@ This is answer 6 <a6>
   # Pisanie przypadków testowych na podstawie User Story.
   
   Poniżej znajduje się dokument z Subtaskiem 1
+  
   https://docs.google.com/spreadsheets/d/1zdjP7G63fPF83VVNyouTMS8-OHtc9akTplZJdipFvmI/edit?usp=sharing
   
   # Subtask 2 #
   Pisanie przypadków testowych na podstawie “własnych doświadczeń.
   
   Poniżej znajduje się dokument z Subtaskiem 2
+  
   https://docs.google.com/spreadsheets/d/16OdmX4HTKTWujVq_OLKPJF6hGnYYCbNdbS8OKM6VDVQ/edit?usp=sharing
   
    # Subtask 3 #
