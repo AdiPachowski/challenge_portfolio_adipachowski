@@ -87,9 +87,7 @@ This is answer 6 <a6>
   
   [https://youtu.be/OO3FANjwKHY](https://www.youtube.com/watch?v=OO3FANjwKHY) 
   
-<  https://youtu.be/OO3FANjwKHY?t=2 >
+
     
-    
-  
      
 # Subtask 4 #
