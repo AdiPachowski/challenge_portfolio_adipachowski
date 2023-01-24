@@ -66,7 +66,7 @@ This is answer 6 <a6>
   # TASK 2 #
   
   # Subtask 1 #
-  # Pisanie przypadków testowych na podstawie User Story.
+   Pisanie przypadków testowych na podstawie User Story.
   
   Poniżej znajduje się dokument z Subtaskiem 1
   
@@ -86,3 +86,4 @@ This is answer 6 <a6>
  - Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.
   
   
+# Subtask 4 #
