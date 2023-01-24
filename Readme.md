@@ -85,9 +85,8 @@ This is answer 6 <a6>
  - Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji.  
  - Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.
   
-  https://youtu.be/OO3FANjwKHY
   
 [![[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLL7k5ohMgYk&psig=AOvVaw1zDompNzktO7Mexn19HJ2G&ust=1674652768344000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC61-yl4PwCFQAAAAAdAAAAABAE]]![image](https://user-images.githubusercontent.com/119878644/214306076-9a992801-8788-46e6-a66e-165dc38fb7b9.png)
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLL7k5ohMgYk&psig=AOvVaw1zDompNzktO7Mexn19HJ2G&ust=1674652768344000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC61-yl4PwCFQAAAAAdAAAAABAE)](https://youtu.be/OO3FANjwKHY)
+
      
 # Subtask 4 #
