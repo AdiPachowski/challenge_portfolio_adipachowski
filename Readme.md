@@ -95,3 +95,17 @@ This is answer 6 <a6>
   
  [ https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1AK5_lEb_2ZmJ6UDZGqdvvtTW05TDtdoG9d6QNMxWYUhx2HIFlHL4dEtw&pli=1#gid=25870091](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1AK5_lEb_2ZmJ6UDZGqdvvtTW05TDtdoG9d6QNMxWYUhx2HIFlHL4dEtw&pli=1#gid=25870091)
   
+# TASK 3 #
+  
+  # Subtask 2 #
+  Testowanie według planów testów i raportowanie błędów
+  
+  https://docs.google.com/spreadsheets/d/1xfHVBRiLzmQinsUmiH7NZbnWiTv3I8OgGw-Ozt3kgNk/edit?usp=sharing
+  
+  # Subtask 3 #
+  Raport z wykonanych testów
+  # :) #
+  
+  https://docs.google.com/document/d/112nsbhbgzOQ68pWhWUxEaO1OCT4Kgdoz/edit?usp=sharing&ouid=112627790576111937822&rtpof=true&sd=true
+  
+  
