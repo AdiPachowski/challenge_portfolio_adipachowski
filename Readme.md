@@ -131,7 +131,9 @@ This is answer 6 <a6>
  
   4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
   
-  - Poprawiłbym komunikator, który jest dość mozolny i ciężko się z niego korzysta, często się zacina. Dodałbym opcje płatności przez OLX, która gwarantuje ci, że po zakupie produktu sprzedawca, otrzyma pieniądze w momencie gdy kupujący otrzyma paczkę. Jest opcja kupna tylko bezpośrednio poprzez kontakt ze sprzedawcą. Usprawniłbym ładowanie strony, aplikacja ma tendencje do lagowania się, przez co nie można z niej korzystać w pełni.
+  - Poprawiłbym komunikator, który jest dość mozolny i ciężko się z niego korzysta, często się zacina. 
+  - Dodałbym opcje płatności przez OLX, która gwarantuje ci, że po zakupie produktu sprzedawca, otrzyma pieniądze w momencie gdy kupujący otrzyma paczkę. Jest opcja kupna tylko bezpośrednio poprzez kontakt ze sprzedawcą. 
+  - Usprawniłbym ładowanie strony, aplikacja ma tendencje do lagowania się, przez co nie można z niej korzystać w pełni.
   
   5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
