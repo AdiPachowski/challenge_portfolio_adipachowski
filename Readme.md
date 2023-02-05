@@ -137,6 +137,20 @@ This is answer 6 <a6>
   
   5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
-  -
+  Różnice, które dostrzegłem pomiędzy aplikacją internetową a aplikacją natywną są takie że:
   
-  # Subtask 4 #
+  5.1 Aplikacje natywne, 
+  
+  - są budowane pod określone platformy  czyli pod iOS oraz Androida 
+  - korzystają ze specyfiki urządzenia czy środowiska
+  - Aplikacja musi być pobrana oraz zainstalowana na dysku
+  - Aktualizacje musimy robić sami przy wykorzystaniu platformy, z której pobieramy aplikacje
+  - w pełni korzysta z jego funkcji: mikrofonu, kamerki, GPS itd
+  
+  5.2 Lecz aplikacje internetowe są:
+  
+  - łatwo dostepne, 
+  - wieloplatformowe, 
+  - nie trzeba ich instalować, 
+  - aktualizacje aplikacji internetowej są wykonywane przez admina, nie musimy wykonywać ich sami tak jak w przypadku apliacji natywnej, 
+  - bezpieczeństwo serwerów, na których przechowywane są dane
