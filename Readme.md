@@ -118,6 +118,7 @@ This is answer 6 <a6>
  1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
   
   - Grupy OLX są platformami do kupowania i sprzedawania usług i towarów, takich jak elektronika, artykuły odzieżowe, meble, artykuły gospodarstwa domowego, samochody i nieruchomości.
+  
   - Celem aplikacji jest umożliwienie uzytkownikom łatwiejszej wymiany towarów, w skomunikowanej społeczności, którą tworzy OLX.
   
  2. Kto ma być użytkownikiem końcowym aplikacji?
@@ -126,7 +127,7 @@ This is answer 6 <a6>
   
  3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
   
-  - 
+  - Według mnie, aplikacja jest user friendly, w miare sprawnie można poruszać się po aplikacji OLX, jej interfejs oraz przejścia są zrozumiałe i bez większych problemów można z niej korzystać. 
  
   4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
  
