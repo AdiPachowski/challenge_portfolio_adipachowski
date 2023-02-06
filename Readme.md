@@ -156,3 +156,5 @@ https://docs.google.com/document/d/1bd4KEkGiewt4q7vWAhEwkOOn1kkNlJ1v/edit?usp=sh
   - nie trzeba ich instalować, 
   - aktualizacje aplikacji internetowej są wykonywane przez admina, nie musimy wykonywać ich sami tak jak w przypadku apliacji natywnej, 
   - bezpieczeństwo serwerów, na których przechowywane są dane
+
+  # Subtask 4 #
