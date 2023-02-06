@@ -113,6 +113,8 @@ This is answer 6 <a6>
   
   # Subtask 2 #
   
+  https://docs.google.com/document/d/1bd4KEkGiewt4q7vWAhEwkOOn1kkNlJ1v/edit?usp=sharing&ouid=112627790576111937822&rtpof=true&sd=true
+  
   # Subtask 3 #
   
  1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
