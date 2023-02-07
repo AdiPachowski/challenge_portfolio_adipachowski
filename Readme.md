@@ -113,7 +113,7 @@ This is answer 6 <a6>
   
   # Subtask 2 #
   
-
+https://docs.google.com/document/d/1dkgkeByeGwXlmiaI90hOhp8sYyXvlITT/edit?usp=sharing&ouid=112627790576111937822&rtpof=true&sd=true
   
   # Subtask 3 #
   
@@ -158,3 +158,5 @@ This is answer 6 <a6>
   - bezpieczeństwo serwerów, na których przechowywane są dane
 
   # Subtask 4 #
+  
+https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1
