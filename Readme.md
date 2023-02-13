@@ -177,6 +177,40 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1
 - IS NULL	Operator pozwala na dokonanie porównania z 'wartością' NULL.
 - UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
   
+  Zapytania w SQL możemy podzielić na kilka rozłącznych grup. Każda z tych grup zawiera różne rodzaje zapytań. Grupy zostały wydzielone na podstawie zadań realizowanych przez poszczególne zapytania. Możemy wyszczególnić następujące grupy:
+
+- DQL (ang. Data Query Language)
+- DML (ang. Data Manipulation Language)
+- DDL (ang. Data Definition Language)
+Dodatkowo czasami wyróżnia się też grupy:
+- DCL (ang. Data Control Language)
+- TCL (ang. Transaction Control Language)
+  
+ 
+ #DQL 
+  - Składa się wyłącznie z zapytań typu #SELECT. Zapytania te służą do odpytywania (ang. query) bazy danych. Innymi słowy służą do pobierania danych z bazy danych
+
+  #DML 
+  służy do tworzenie, modyfikowania i usuwania danych. W skład tej grupy wchodzą zapytania:
+
+- INSERT : dodaje wiersze do tabeli,
+- UPDATE : aktualizuje wiersze w tabeli,
+- DELETE : usuwa wiersze z tabeli.
+  
+  #DDL
+  
+- CREATE : tworzą obiekty bazy danych,
+- ALTER  : modyfikują tabele bazy danych,
+- DROP   : usuwają obiekty bazy danych,
+- TRUNCATE : usuwa wszystkie dane z tabeli
+  
+  #TCL
+  
+- BEGIN : rozpoczyna transakcję,
+- COMMIT : zatwierdza transakcję,
+- ROLLBACK : wycofuje transakcję,
+- SAVEPOINT : zapisuje punkt przywracania aktualnej transakcji.
+  
   # Subtask 2 #
   ![image](https://user-images.githubusercontent.com/119878644/218436686-6ca02eb1-34b5-4061-b883-ed20fa33ae37.png)
 
