@@ -222,8 +222,12 @@ Dodatkowo czasami wyróżnia się też grupy:
 
 2. Wyświetl film, który powstał w 2019 roku.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218515175-bd9aa952-40ce-4bb2-b70e-444a8b34e1f8.png)
+
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218514997-033e9f63-a52f-4cdd-84a9-62a072783742.png)
+
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
   
