@@ -218,6 +218,8 @@ Dodatkowo czasami wyróżnia się też grupy:
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218513573-299bb29a-bf02-4ddf-9c38-6cd4ad202084.png)
+
 2. Wyświetl film, który powstał w 2019 roku.
   
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
