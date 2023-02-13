@@ -233,8 +233,12 @@ Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4
   
 5. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218533786-b3ebf0bc-8292-45a3-bbae-0ae329ad2d06.png)
+
 6. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218534135-8ac1bfc4-8484-420c-bf34-cffc9c015783.png)
+
 7. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
   
 8. Wyświetl dane klienta, który nie ma podanego adresu email.
