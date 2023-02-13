@@ -165,6 +165,18 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1
   
   # Subtask 1 #
   
+  - ALL	Operator służy do porównania wartości ze wszystkimi wartościami w innym zestawie wartości. Warunek jest prawdziwy jeżeli wszystkie wartości pod-zapytania spełniają warunek.
+- ANY	Operator służy do porównania wartości z jakąkolwiek wartością w innym zestawie wartości. Warunek jest prawdziwy jeżeli którakolwiek wartość pod-zapytania spełnia warunek.
+- AND	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+- BETWEEN	Operator pozwala na wyszukiwanie wartości, które mieszczą się w zdefiniowanym zbiorze wartości. Definicja zbioru opiera się na wartości minimalnej oraz maksymalnej.
+- EXISTS	Operator pozwala na sprawdzenie czy dany rekord istnieje w pod-zapytaniu.
+- IN	Operator pozwala na określenie wielu wartości w klauzuli WHERE.
+- LIKE	Operator pozwala na porównanie wartości z wartościami podobnymi przy zastosowaniu operatorów wieloznacznych.
+- NOT	Operator negujący służy do odwrócenia znaczenia operatora logiczego z którym jest używany. Prostymi przykładami użycia są: NOT IN, NOT EXISTS, etc.
+- OR	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+- IS NULL	Operator pozwala na dokonanie porównania z 'wartością' NULL.
+- UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
+  
   # Subtask 2 #
   ![image](https://user-images.githubusercontent.com/119878644/218436686-6ca02eb1-34b5-4061-b883-ed20fa33ae37.png)
 
