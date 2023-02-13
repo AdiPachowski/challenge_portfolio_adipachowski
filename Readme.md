@@ -241,7 +241,12 @@ Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4
 
 7. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218534405-3046027d-a067-4a3c-8913-0c55246d8333.png)
+
 8. Wyświetl dane klienta, który nie ma podanego adresu email.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218534715-2c6b3017-40d1-4bcf-92a7-af78819eb01d.png)
+
 9. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
   
+![image](https://user-images.githubusercontent.com/119878644/218535081-1a1b592f-1bc4-4b4a-a997-c007ab358464.png)
