@@ -229,24 +229,28 @@ Dodatkowo czasami wyróżnia się też grupy:
   ![image](https://user-images.githubusercontent.com/119878644/218514997-033e9f63-a52f-4cdd-84a9-62a072783742.png)
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
   
-5. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+  ![image](https://user-images.githubusercontent.com/119878644/218536109-40046f29-4167-4651-8ec3-bb0f71fa68a7.png)
+
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+  
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
   
   ![image](https://user-images.githubusercontent.com/119878644/218533786-b3ebf0bc-8292-45a3-bbae-0ae329ad2d06.png)
 
-6. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
   
   ![image](https://user-images.githubusercontent.com/119878644/218534135-8ac1bfc4-8484-420c-bf34-cffc9c015783.png)
 
-7. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
   
   ![image](https://user-images.githubusercontent.com/119878644/218534405-3046027d-a067-4a3c-8913-0c55246d8333.png)
 
-8. Wyświetl dane klienta, który nie ma podanego adresu email.
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
   
   ![image](https://user-images.githubusercontent.com/119878644/218534715-2c6b3017-40d1-4bcf-92a7-af78819eb01d.png)
 
-9. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
   
 ![image](https://user-images.githubusercontent.com/119878644/218535081-1a1b592f-1bc4-4b4a-a997-c007ab358464.png)
