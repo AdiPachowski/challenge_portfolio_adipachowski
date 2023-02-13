@@ -165,17 +165,17 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1
   
   # Subtask 1 #
   
-  - ALL	Operator służy do porównania wartości ze wszystkimi wartościami w innym zestawie wartości. Warunek jest prawdziwy jeżeli wszystkie wartości pod-zapytania spełniają warunek.
-- ANY	Operator służy do porównania wartości z jakąkolwiek wartością w innym zestawie wartości. Warunek jest prawdziwy jeżeli którakolwiek wartość pod-zapytania spełnia warunek.
-- AND	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
-- BETWEEN	Operator pozwala na wyszukiwanie wartości, które mieszczą się w zdefiniowanym zbiorze wartości. Definicja zbioru opiera się na wartości minimalnej oraz maksymalnej.
-- EXISTS	Operator pozwala na sprawdzenie czy dany rekord istnieje w pod-zapytaniu.
-- IN	Operator pozwala na określenie wielu wartości w klauzuli WHERE.
-- LIKE	Operator pozwala na porównanie wartości z wartościami podobnymi przy zastosowaniu operatorów wieloznacznych.
-- NOT	Operator negujący służy do odwrócenia znaczenia operatora logiczego z którym jest używany. Prostymi przykładami użycia są: NOT IN, NOT EXISTS, etc.
-- OR	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
-- IS NULL	Operator pozwala na dokonanie porównania z 'wartością' NULL.
-- UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
+  - ALL :	Operator służy do porównania wartości ze wszystkimi wartościami w innym zestawie wartości. Warunek jest prawdziwy jeżeli wszystkie wartości pod-zapytania spełniają warunek.
+- ANY :	Operator służy do porównania wartości z jakąkolwiek wartością w innym zestawie wartości. Warunek jest prawdziwy jeżeli którakolwiek wartość pod-zapytania spełnia warunek.
+- AND :	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+- BETWEEN :	Operator pozwala na wyszukiwanie wartości, które mieszczą się w zdefiniowanym zbiorze wartości. Definicja zbioru opiera się na wartości minimalnej oraz maksymalnej.
+- EXISTS :	Operator pozwala na sprawdzenie czy dany rekord istnieje w pod-zapytaniu.
+- IN	: Operator pozwala na określenie wielu wartości w klauzuli WHERE.
+- LIKE :	Operator pozwala na porównanie wartości z wartościami podobnymi przy zastosowaniu operatorów wieloznacznych.
+- NOT	: Operator negujący służy do odwrócenia znaczenia operatora logiczego z którym jest używany. Prostymi przykładami użycia są: NOT IN, NOT EXISTS, etc.
+- OR	: Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+- IS NULL :	Operator pozwala na dokonanie porównania z 'wartością' NULL.
+- UNIQUE :	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
   
   Zapytania w SQL możemy podzielić na kilka rozłącznych grup. Każda z tych grup zawiera różne rodzaje zapytań. Grupy zostały wydzielone na podstawie zadań realizowanych przez poszczególne zapytania. Możemy wyszczególnić następujące grupy:
 
@@ -187,24 +187,24 @@ Dodatkowo czasami wyróżnia się też grupy:
 - TCL (ang. Transaction Control Language)
   
  
- #DQL 
+  #DQL# 
   - Składa się wyłącznie z zapytań typu #SELECT. Zapytania te służą do odpytywania (ang. query) bazy danych. Innymi słowy służą do pobierania danych z bazy danych
 
-  #DML 
-  służy do tworzenie, modyfikowania i usuwania danych. W skład tej grupy wchodzą zapytania:
+  #DML# 
+  Służy do tworzenie, modyfikowania i usuwania danych. W skład tej grupy wchodzą zapytania:
 
 - INSERT : dodaje wiersze do tabeli,
 - UPDATE : aktualizuje wiersze w tabeli,
 - DELETE : usuwa wiersze z tabeli.
   
-  #DDL
+  #DDL#
   
 - CREATE : tworzą obiekty bazy danych,
 - ALTER  : modyfikują tabele bazy danych,
 - DROP   : usuwają obiekty bazy danych,
 - TRUNCATE : usuwa wszystkie dane z tabeli
   
-  #TCL
+  #TCL#
   
 - BEGIN : rozpoczyna transakcję,
 - COMMIT : zatwierdza transakcję,
