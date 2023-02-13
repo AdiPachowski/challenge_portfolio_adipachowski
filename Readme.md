@@ -166,5 +166,6 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1
   # Subtask 1 #
   
   # Subtask 2 #
-  
+  ![image](https://user-images.githubusercontent.com/119878644/218436686-6ca02eb1-34b5-4061-b883-ed20fa33ae37.png)
+
   # Subtask 3 #
