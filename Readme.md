@@ -235,6 +235,8 @@ Dodatkowo czasami wyróżnia się też grupy:
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
   
+  ![image](https://user-images.githubusercontent.com/119878644/218773573-554fd1a9-1e8b-4684-a4b5-ff6cf4ca2332.png)
+
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
   
   ![image](https://user-images.githubusercontent.com/119878644/218533786-b3ebf0bc-8292-45a3-bbae-0ae329ad2d06.png)
