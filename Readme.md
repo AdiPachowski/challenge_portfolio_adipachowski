@@ -256,3 +256,12 @@ Dodatkowo czasami wyróżnia się też grupy:
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
   
 ![image](https://user-images.githubusercontent.com/119878644/218535081-1a1b592f-1bc4-4b4a-a997-c007ab358464.png)
+  
+
+  # TASK 6 #
+  
+  # Subtask 1 #
+  
+  # Subtask 2 #
+  
+  # Subtask 3 #
