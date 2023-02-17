@@ -270,6 +270,10 @@ Dodatkowo czasami wyróżnia się też grupy:
   
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
   
+  ![image](https://user-images.githubusercontent.com/119878644/219702223-803d1a77-361c-4aab-9cdb-0b691b83cbaf.png)
+  
+  ![image](https://user-images.githubusercontent.com/119878644/219702320-ed35f2aa-5d97-42bc-af98-bbefc592d14b.png)
+
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
   
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
