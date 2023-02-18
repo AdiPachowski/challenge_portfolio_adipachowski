@@ -268,6 +268,8 @@ Dodatkowo czasami wyróżnia się też grupy:
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
   
+  ![image](https://user-images.githubusercontent.com/119878644/219877922-7d8abc30-933b-49da-8af1-cbac746225a1.png)
+
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
   
   ![image](https://user-images.githubusercontent.com/119878644/219702223-803d1a77-361c-4aab-9cdb-0b691b83cbaf.png)
