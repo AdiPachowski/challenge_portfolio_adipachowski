@@ -296,6 +296,10 @@ Dodatkowo czasami wyróżnia się też grupy:
   
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
   
+  ![image](https://user-images.githubusercontent.com/119878644/219881453-7c22087c-80e0-4d99-a8e1-0461fac0245b.png)
+
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+  
   
   # Subtask 2 #
   
