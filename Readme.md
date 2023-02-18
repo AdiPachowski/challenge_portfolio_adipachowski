@@ -289,7 +289,8 @@ Dodatkowo czasami wyróżnia się też grupy:
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
-  
+  ![image](https://user-images.githubusercontent.com/119878644/219883588-be10a4ef-1ede-4b26-b6cc-d68f17dcd09d.png)
+
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
   
   ![image](https://user-images.githubusercontent.com/119878644/219881972-7cc72a11-cccc-4a57-92db-4ac53075e3bd.png)
