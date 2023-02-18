@@ -292,6 +292,8 @@ Dodatkowo czasami wyróżnia się też grupy:
   
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
   
+  ![image](https://user-images.githubusercontent.com/119878644/219881972-7cc72a11-cccc-4a57-92db-4ac53075e3bd.png)
+
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
   
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
