@@ -304,4 +304,7 @@ Dodatkowo czasami wyróżnia się też grupy:
   
   # Subtask 2 #
   
+  Wynik testu 11/15
+  ![image](https://user-images.githubusercontent.com/119878644/219977273-0e1aee88-32d5-4cac-a070-ca7a01801a88.png)
+
   # Subtask 3 #
