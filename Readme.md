@@ -288,6 +288,10 @@ Dodatkowo czasami wyróżnia się też grupy:
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
   
+  ![image](https://user-images.githubusercontent.com/119878644/219978416-96c8f344-dd8c-42c9-9014-6e43ecca15d1.png)
+
+  ![image](https://user-images.githubusercontent.com/119878644/219978401-ca8094bb-66fa-41bb-af76-6d450e7e801a.png)
+
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
   ![image](https://user-images.githubusercontent.com/119878644/219883588-be10a4ef-1ede-4b26-b6cc-d68f17dcd09d.png)
 
