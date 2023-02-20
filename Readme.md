@@ -315,3 +315,5 @@ Dodatkowo czasami wyróżnia się też grupy:
   ![image](https://user-images.githubusercontent.com/119878644/219977273-0e1aee88-32d5-4cac-a070-ca7a01801a88.png)
 
   # Subtask 3 #
+  
+  Link do nowego portfolio 🦖 https://github.com/AdiPachowski/portfolio_Adrian_Pachowski/blob/main/README.md
